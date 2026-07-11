@@ -191,7 +191,10 @@ This shows that the neighborhood has a good effect on house prices and can be us
 # Output
 
 At the end, I saved the cleaned dataset as:
-
-**cleaned_data.csv**
+   **cleaned_data.csv**
 
 This file will be used in Part 2.
+
+---
+
+**This completes Part 1 of the project.**
