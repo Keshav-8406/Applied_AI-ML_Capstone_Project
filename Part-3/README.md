@@ -361,7 +361,7 @@ Gradient Boosting also performed really well, but Random Forest was easier to tu
 
 # Files Included
 
-- Part3.ipynb
+- Part3_Advanced_Modeling.ipynb
 - best_model.pkl
 - README.md
 
