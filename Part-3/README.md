@@ -387,3 +387,7 @@ I compared Decision Tree, Random Forest and Gradient Boosting.
 I also learned how to reduce overfitting, compare models using Cross Validation, tune hyperparameters using GridSearchCV, perform Feature Ablation, and save the final trained model.
 
 Overall, Random Forest and Gradient Boosting performed much better than a single Decision Tree on this dataset.
+
+---
+
+This completes Part 3 of the project.
